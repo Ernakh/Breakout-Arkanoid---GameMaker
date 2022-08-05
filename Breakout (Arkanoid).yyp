@@ -6,6 +6,7 @@
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},"order":1,},
     {"id":{"name":"obj_bloco","path":"objects/obj_bloco/obj_bloco.yy",},"order":4,},
     {"id":{"name":"obj_muro","path":"objects/obj_muro/obj_muro.yy",},"order":3,},
+    {"id":{"name":"sprt_fundo","path":"sprites/sprt_fundo/sprt_fundo.yy",},"order":5,},
     {"id":{"name":"sprt_bola","path":"sprites/sprt_bola/sprt_bola.yy",},"order":1,},
     {"id":{"name":"sprt_paleta","path":"sprites/sprt_paleta/sprt_paleta.yy",},"order":0,},
     {"id":{"name":"sprt_muro","path":"sprites/sprt_muro/sprt_muro.yy",},"order":3,},
