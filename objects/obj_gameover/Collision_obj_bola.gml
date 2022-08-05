@@ -3,4 +3,5 @@
 
 
 show_message("você perdeu!");
-instance_destroy();
+//instance_destroy();
+game_restart();

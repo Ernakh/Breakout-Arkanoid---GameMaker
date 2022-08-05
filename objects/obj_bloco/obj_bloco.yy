@@ -1,9 +1,9 @@
 {
   "spriteId": {
-    "name": "sprt_gameover",
-    "path": "sprites/sprt_gameover/sprt_gameover.yy",
+    "name": "sprt_bloco",
+    "path": "sprites/sprt_bloco/sprt_bloco.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_gameover",
+  "name": "obj_bloco",
   "tags": [],
   "resourceType": "GMObject",
 }
